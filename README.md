@@ -10,7 +10,7 @@
 <img src="/images/Screenshot_20200320_203105.jpg" alt="drawing" width="200"/>
 
 <ul>
-  <li><h3>Call call!just by clicking on number</h3></li>
+  <li><h3>Can call!just by clicking on number</h3></li>
   
   <li><h3>Broadcast or unicast using SMS or Mail Service</h3></li>
   </ul>
