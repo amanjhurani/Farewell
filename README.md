@@ -1,4 +1,7 @@
 # Farewell 
+## Gives daring to lead an adventure.
+
+<body bgcolor="red">
 <img src="/images/Screenshot_20200320_203100.jpg" alt="drawing" width="200"/>
 <ul>
   <li><h3>Take entry of Participants</h3></li>
@@ -27,3 +30,4 @@
 
 <img src="/images/Screenshot_20200320_203310.jpg" alt="drawing" width="200"/>
 
+</body>
