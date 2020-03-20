@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:background="#E0F2F1"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+        <EditText
+            android:id="@+id/Upname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter New Name"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/Upenrollment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter New Enrollnment"
+            android:inputType="number"
+            android:maxLength="12" />
+
+
+        <EditText
+            android:id="@+id/Upemail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter New Email"
+            android:inputType="textEmailAddress" />
+
+
+        <EditText
+            android:id="@+id/Upmobile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter New Mobile Number"
+            android:inputType="number"
+            android:maxLength="10" />
+
+        <EditText
+            android:id="@+id/Upyear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Year(1/2/3/4)"
+            android:inputType="number"
+            android:maxLength="1" />
+
+        <EditText
+            android:id="@+id/Upfees"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Registration Fees"
+            android:inputType="number"
+            android:maxLength="3" />
+
+
+        <Button
+            android:id="@+id/update"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:backgroundTint="@color/colorPrimary"
+            android:padding="15dp"
+            android:text="Update"
+            android:textColor="@android:color/white"
+            android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/delete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:backgroundTint="@color/colorPrimary"
+        android:padding="15dp"
+        android:text="Delete"
+        android:textColor="@android:color/white"
+        android:textSize="20dp" />
+
+</LinearLayout>
