@@ -2,7 +2,7 @@
 ## Gives daring to lead an adventure.
 
 <body bgcolor="red">
-<img src="/images/Screenshot_20200320_203100.jpg" alt="drawing" width="200"/>
+<img src="/images/Screenshot_20200320_203100.jpg" alt="drawing" width="200" float="left"/>
 <ul>
   <li><h3>Take entry of Participants</h3></li>
   </ul>
